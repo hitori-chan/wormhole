@@ -1,0 +1,8 @@
+/target
+.secret
+*.toml
+*.log
+notes/
+id_ed25519
+AGENTS.local.md
+deploy.sh
